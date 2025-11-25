@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "sender": "sarah.chen@techventures.com",
+    "recipient": "me@example.com",
+    "subject": "Q4 Budget Review Meeting - $500K Allocation",
+    "body": "Hi,\n\nWe need to discuss the Q4 budget allocation of $500,000 for the new office expansion. Can you confirm your availability for tomorrow at 2 PM?\n\nWe should review:\n- Office setup costs ($250K)\n- Equipment purchase ($150K)\n- Initial operations ($100K)\n\nPlease respond ASAP.\n\nBest regards,\nSarah Chen\nCFO, TechVentures",
+    "timestamp": "2025-11-25T09:30:00"
+  },
+  {
+    "id": "2",
+    "sender": "newsletter@techinsider.com",
+    "recipient": "me@example.com",
+    "subject": "Tech Weekly - Startup Ecosystem Updates",
+    "body": "Hello!\n\nThis week's highlights:\n- AI breakthroughs in natural language processing\n- Cloud computing trends for 2025\n- Cybersecurity best practices for remote teams\n- Latest funding rounds and acquisitions\n\nRead more on our website. Unsubscribe anytime.\n\nBest,\nTech Insider Team",
+    "timestamp": "2025-11-25T08:00:00"
+  },
+  {
+    "id": "3",
+    "sender": "offers@dealstoday.com",
+    "recipient": "me@example.com",
+    "subject": "\ud83c\udf89 Win $10,000 Shopping Voucher! Click Now!",
+    "body": "CONGRATULATIONS!!!\n\nYou've been selected as our lucky winner for a $10,000 shopping voucher!\n\nCLICK HERE immediately to claim before midnight!\n\nLimited slots available - ACT NOW!\n\nVerify your account and payment details to receive your reward instantly!",
+    "timestamp": "2025-11-24T22:15:00"
+  },
+  {
+    "id": "4",
+    "sender": "alex.rivera@devteam.io",
+    "recipient": "me@example.com",
+    "subject": "Code Review: Payment Gateway Integration",
+    "body": "Hey,\n\nI've completed the payment gateway integration for our e-commerce platform. Could you review the PR when you get a chance?\n\nFeatures included:\n- Credit/debit card processing\n- Digital wallet support\n- Recurring billing\n- Multi-currency support\n- Transaction tracking\n\nFeedback needed by Friday. Thanks!\n\nAlex Rivera\nSenior Developer",
+    "timestamp": "2025-11-25T11:45:00"
+  },
+  {
+    "id": "5",
+    "sender": "hr@company.com",
+    "recipient": "me@example.com",
+    "subject": "Action Required: Annual Performance Review",
+    "body": "Dear Employee,\n\nThis is a reminder to complete your annual performance self-assessment by November 30, 2025.\n\nProcess:\n1. Login to HR portal\n2. Complete self-assessment form\n3. Upload supporting documents\n4. Submit for manager review\n\nYour annual bonus and salary review depend on timely submission.\n\nDeadline: November 30, 2025\n\nRegards,\nHR Department",
+    "timestamp": "2025-11-25T10:00:00"
+  },
+  {
+    "id": "6",
+    "sender": "maria.santos@clientcorp.com",
+    "recipient": "me@example.com",
+    "subject": "Project Milestone: Phase 1 Completed!",
+    "body": "Hi Team,\n\nGreat news! Phase 1 of the Mobile App project is complete, ahead of schedule!\n\nNext milestones:\n1. Sprint planning - November 28 (video call)\n2. Client demo - December 5\n3. Documentation update - Due December 2\n4. Phase 2 kickoff - December 10\n\nBudget utilized: $180K out of $250K allocated.\n\nLet's schedule a quick sync call tomorrow.\n\nCheers,\nMaria Santos\nProject Manager",
+    "timestamp": "2025-11-25T13:20:00"
+  },
+  {
+    "id": "7",
+    "sender": "james.park@partnerships.biz",
+    "recipient": "me@example.com",
+    "subject": "Partnership Opportunity - FinTech Collaboration",
+    "body": "Dear Colleague,\n\nI'm reaching out regarding a potential partnership for digital payment solutions.\n\nWe've been impressed with your company's innovation and believe there's strong potential for collaboration in emerging markets.\n\nCould we schedule a meeting next week? I'll be in your area on December 2nd.\n\nLooking forward to your response.\n\nBest regards,\nJames Park\nBusiness Development Manager\nGlobal Payments Inc.",
+    "timestamp": "2025-11-25T12:00:00"
+  },
+  {
+    "id": "8",
+    "sender": "deals@megastore.com",
+    "recipient": "me@example.com",
+    "subject": "Black Friday Special! 60% Off Everything!",
+    "body": "\ud83d\udecd\ufe0f BLACK FRIDAY MEGA SALE \ud83d\udecd\ufe0f\n\nUp to 60% OFF on all categories!\n\u2728 Extra $50 cashback on orders above $200\n\u2728 Free worldwide shipping\n\u2728 Easy payment plans available\n\nOffer valid until midnight!\n\nUse code: BLACKFRIDAY60\n\nShop Now | Download App\n\nMegaStore - Your Shopping Destination!",
+    "timestamp": "2025-11-25T07:00:00"
+  },
+  {
+    "id": "9",
+    "sender": "security@securebank.com",
+    "recipient": "me@example.com",
+    "subject": "URGENT: Suspicious Activity on Your Account",
+    "body": "Dear Customer,\n\nWe have detected suspicious transaction of $4,500 from your account.\n\nACCOUNT: XXXX1234\n\nClick here immediately to verify and block transaction.\n\nYour account will be frozen within 24 hours if not verified.\n\nUpdate your security information now.\n\nNote: This is an automated security alert. Do not reply.\n\nSecure Bank Customer Care",
+    "timestamp": "2025-11-24T19:45:00"
+  },
+  {
+    "id": "10",
+    "sender": "emma.wilson@startup.ventures",
+    "recipient": "me@example.com",
+    "subject": "Investment Opportunity - EdTech Platform",
+    "body": "Hello,\n\nI hope this email finds you well. I'm the founder of LearnHub, an EdTech platform focused on personalized learning.\n\nWe're raising our Series A round ($10M) and would love to discuss investment opportunities.\n\nKey highlights:\n- 500K active users across 15 countries\n- Partnerships with 200+ institutions\n- Revenue: $2M ARR (100% YoY growth)\n- Backed by major university incubators\n\nCould we schedule a call this week?\n\nBest regards,\nEmma Wilson\nFounder & CEO\nLearnHub Inc.",
+    "timestamp": "2025-11-25T14:30:00"
+  },
+  {
+    "id": "11",
+    "sender": "admin@techconf.global",
+    "recipient": "me@example.com",
+    "subject": "Speaker Confirmation - Global Tech Summit 2025",
+    "body": "Dear Speaker,\n\nThank you for agreeing to speak at Global Tech Summit 2025!\n\nYour session details:\n- Title: \"AI/ML in Modern Applications\"\n- Date: December 15, 2025\n- Time: 2:00 PM - 3:00 PM\n- Venue: Convention Center\n- Expected audience: 500+ attendees\n\nPlease:\n1. Submit presentation slides by December 5\n2. Confirm attendance by replying\n3. Share your bio and photo for materials\n\nSpeaker fee: $5,000 + Travel + Accommodation\n\nLooking forward!\n\nOrganizing Committee\nGlobal Tech Summit",
+    "timestamp": "2025-11-25T08:30:00"
+  },
+  {
+    "id": "12",
+    "sender": "support@cloudservices.io",
+    "recipient": "me@example.com",
+    "subject": "Ticket #CS4521 Resolved - Performance Issue",
+    "body": "Hello,\n\nYour support ticket (#CS4521) regarding server performance has been resolved.\n\nIssue: Intermittent latency in primary region\nResolution: Network optimized, latency reduced by 40%\n\nCurrent status:\n- Latency: 5ms (from 12ms)\n- Uptime: 99.99%\n- No additional charges\n\nIf you experience any issues, please reopen the ticket.\n\nThank you for using Cloud Services!\n\nSupport Team\nCloud Services Inc.",
+    "timestamp": "2025-11-25T15:10:00"
+  },
+  {
+    "id": "13",
+    "sender": "david.kim@company.com",
+    "recipient": "me@example.com",
+    "subject": "Team Outing - Beach Resort Trip! \ud83c\udfd6\ufe0f",
+    "body": "Hey Team,\n\nWe're planning a team outing to Beach Resort from December 5-7!\n\nItinerary:\n- Day 1: Travel, check-in at resort\n- Day 2: Beach activities, water sports, evening bonfire\n- Day 3: Sightseeing, return journey\n\nCost: $800 per person (company sponsored!)\n\nIncludes:\n- Round-trip transportation\n- 2 nights accommodation\n- All meals\n- Activities and equipment\n\nPlease RSVP by November 27. Let me know dietary preferences.\n\nLet's make it memorable!\n\nRegards,\nDavid Kim\nTeam Lead",
+    "timestamp": "2025-11-25T09:00:00"
+  },
+  {
+    "id": "14",
+    "sender": "billing@streamplus.com",
+    "recipient": "me@example.com",
+    "subject": "Payment Confirmation - Premium Subscription",
+    "body": "Hello,\n\nThank you for your payment!\n\nReceipt Details:\n- Service: StreamPlus Premium (4K + 4 screens)\n- Amount: $15.99\n- Period: December 2025\n- Payment: Credit Card ending in 1234\n- Transaction ID: SP123456789\n\nYour subscription is active and will auto-renew on January 1, 2026.\n\nManage subscription | View invoice | Download app\n\nQuestions? Contact support@streamplus.com\n\nHappy streaming!\nStreamPlus Team",
+    "timestamp": "2025-11-25T06:15:00"
+  },
+  {
+    "id": "15",
+    "sender": "prof.anderson@university.edu",
+    "recipient": "me@example.com",
+    "subject": "Research Paper Review - Machine Learning Project",
+    "body": "Hi,\n\nI've reviewed your research paper on \"ML Applications in Healthcare\".\n\nOverall: Excellent work! Very comprehensive research.\n\nComments:\n1. Add more case studies from recent publications\n2. Include data from controlled trials\n3. Expand cost-benefit analysis section\n4. Update references with 2024-2025 publications\n5. Conclusion needs stronger policy recommendations\n\nPlease resubmit by December 5 for final review.\n\nYour chances of publication are very strong!\n\nBest regards,\nDr. Robert Anderson\nProfessor, Computer Science\nUniversity",
+    "timestamp": "2025-11-25T14:00:00"
+  }
+]
