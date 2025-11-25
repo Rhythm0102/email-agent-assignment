@@ -20,7 +20,7 @@
 
 1. **Unzip the Release**
    ```
-   cd email-agent-PERFECT
+   cd email-agent-assignment
    ```
 
 2. **Install Dependencies**
